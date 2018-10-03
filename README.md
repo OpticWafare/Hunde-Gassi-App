@@ -1,6 +1,6 @@
 # Hunde-Gassi-App
 
-Ziele des Anbieters 
+Ziele des Anbieters: 
 
 Programmieren einer App, mit welcher der Nutzer darauf hingewiesen wird, wie lange, wie oft und wie weit Hundebesitzer mit ihren Hunden Gassi gehen. 
 Ebenfalls soll die Erinnerungsfunktion dazu führen, dass Hundebesitzer aktiv zu einer bestimmten Zeit darauf hingewiesen werden mit ihren Hunden Gassi zu gehen. 
@@ -14,12 +14,14 @@ Dies könnte entweder durch ein Sterne System oder mittels vorgefertigter Nachri
 Ein weiteres Kann-Kriterium ist das Anzeigen von Statistiken in der App. Man könnte sich die Gassigänge der letzten Woche und des letzten Monats anzeigen lassen.
 
 
-Anforderungen
-Designen der graphischen Oberfläche
-Anzeigen eines GPS Signals
-GPS Daten in Datenbank speichern und in der App anzeigen
-Erinnerung und Pushmitteilungen erstellen
+Anforderungen:
+
+Designen der graphischen Oberfläche, 
+ Anzeigen eines GPS Signals,
+ GPS Daten in Datenbank speichern und in der App anzeigen,
+ Erinnerung und Pushmitteilungen erstellen
 
 
-Grobschätzung des Aufwands
+Grobschätzung des Aufwand:
+
 Nach einer groben Schätzung kamen wir auf einen Arbeitsaufwand von 12 Wochen 
